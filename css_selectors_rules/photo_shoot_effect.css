@@ -44,7 +44,7 @@ h3 {
   background-color: #142830;
 }
 img {
-  width: 400px;
+  width: 350px;
   height: 300px;
   border: none;
 }
@@ -62,7 +62,7 @@ figure {
 }
 .content p {
   color: #94c258;
-  line-height: 30px;
+  line-height: 20px;
   padding-bottom: 5px;
 }
 
