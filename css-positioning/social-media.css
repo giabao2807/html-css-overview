@@ -33,3 +33,9 @@ body {
   text-decoration: none;
   color: rgb(150, 130, 107);
 }
+.fab {
+  color: pink;
+}
+.fab:hover {
+  color: white;
+}
